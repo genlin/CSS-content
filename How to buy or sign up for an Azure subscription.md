@@ -14,8 +14,7 @@ To sign up for an Azure Free Trial subscription, you must have a phone number, a
 2. Sign in to your Microsoft account.
 3. In the About you section, type your personal information. ![The screenshow of personal information](./Media/AboutYou.png)
 4. In the **Verification by phone** section, select the international dialing code for your country, type your phone number (Do not type the internal dialing code) and then click Send text message. You'll soon receive a verification code on your phone. Please use the code to verify your Windows Azure account.  
-![the screenshot about phone verification](./Media/PhoneVerify.png)
-
+![the screenshot about phone verification](./Media/PhoneVerify.png)</br>
 If you do not receive the message, please try the following methods:
  * Use **Call me** option.
  * Use another phone number.
@@ -24,8 +23,8 @@ If you do not receive the message, please try the following methods:
 5. After the Phone verification is completed, move to the credit card
  verification section.
 
- ![cardverify](./Media/VardVerify.png)
-6. After the credit card verification is completed, check the Agreement option, and then click **Sign Up**. <center>![Signup](./Media/Signup.png)</center>
+ ![cardverify](./Media/VardVerify.png)</br>
+6. After the credit card verification is completed, check the Agreement option, and then click **Sign Up**. <center>![Signup](./Media/Signup.png)</center></br>
 If you receive the following error message, try to use another browser to complete the sign-up process.  If the issue still occurs, contact Microsoft Support for help.
 ![signuperror1](./Media/signuperror1.png)
 7. When the subscription is ready, click Start managing my service.
