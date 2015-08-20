@@ -22,7 +22,7 @@ This topic helps you with the following tasks:
 
 * Sign up for an Azure Free Trial subscription
 * Upgrade your Azure Free Trial subscription to a Pay-As-You-Go subscription
-* Activate your Azure subscription by using a Service Activation Key (a 5x5 key)
+* Activate your Azure subscription by using a Online Service Activation Key (a 5x5 key)
 
 ## Sign up for an Azure Free Trial subscription
 To sign up for an Azure Free Trial subscription, you must have a phone number, a credit card, and a Microsoft Account (formerly Windows Live ID).  We use the phone number and credit card for identity verification. We want to make sure that real people are using Azure. We do not bill anything to the credit card.  If you would like to pay by invoice, see [Azure Invoicing](http://azure.microsoft.com/en-us/pricing/invoicing/).
@@ -55,9 +55,9 @@ If you receive the following error message, try to use another browser to comple
 3. Select the subscription, and then click **Upgrade**.</br>![billpage](./Media/billpage.png)
 4. Select **Yes**, and then click **Upgrade now**. </br>![upgrade](./Media/Upgrade.png)
 
-## Activate your Azure subscription by using a Service Activation Key (a 5x5 key)
+## Activate your Azure subscription by using a Online Service Activation Key (a 5x5 key)
 
 If you bought Azure in Open credits from a reseller, please follow these steps to activate your subscription:
 
-1. Open the [Azure in Open License key](http://azure.microsoft.com/en-us/pricing/purchase-options/) page, and then select Activate a new subscription or existing subscription.
+1. Open the [Azure in Open License key](http://azure.microsoft.com/en-us/offers/ms-azr-0111p/) page, and then select Activate a new subscription or existing subscription.
 2. Type the product key, and then check the first agreement option (and also the second option if you want to receive special offers) to activate the subscription.</br>![OSA KEY](./Media/OSAkey.png)
