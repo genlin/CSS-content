@@ -60,4 +60,4 @@ If you receive the following error message, try to use another browser to comple
 If you bought Azure in Open credits from a reseller, please follow these steps to activate your subscription:
 
 1. Open the [Azure in Open License key](http://azure.microsoft.com/en-us/pricing/purchase-options/) page, and then select Activate a new subscription or existing subscription.
-2. Type the product key, and then check the first agreement option (and also the second option if you want to receive special offers) to activate the subscription.</br>![./Media/OSAKey.png]
+2. Type the product key, and then check the first agreement option (and also the second option if you want to receive special offers) to activate the subscription.</br>![OSA KEY](./Media/OSAkey.png)
