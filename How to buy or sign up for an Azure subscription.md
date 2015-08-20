@@ -19,7 +19,7 @@ If you do not receive the message, please try the following methods:
 * Use **Call me** option. 
 * Use another phone number. 
 * Contact [Microsoft Support](http://go.microsoft.com/fwlink/?linkid=544831&clcid=0x409) for help. 
-![the screenshot about phone verification](./Media/AboutYou.png)
+![the screenshot about phone verification](./media/AboutYou.png)
 
 
 
