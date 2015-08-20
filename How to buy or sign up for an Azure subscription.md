@@ -12,7 +12,7 @@ To sign up for an Azure Free Trial subscription, you must have a phone number, a
 
 1. Open the [Azure free trial page](https://azure.microsoft.com/en-us/pricing/free-trial/), and then click Try it now.
 2. Sign in to your Microsoft account.
-3. In the About you section, type your personal information. ![The screenshow of personal information](https://github.com/genlin/CSS-content/blob/master/Media/AboutYou.png)
+3. In the About you section, type your personal information. ![The screenshow of personal information](./Media/AboutYou.png)
 4. In the **Verification by phone** section, select the international dialing code for your country, type your phone number (Do not type the internal dialing code) and then click Send text message. You'll soon receive a verification code on your phone. Please use the code to verify your Windows Azure account.  
 
 If you do not receive the message, please try the following methods:
