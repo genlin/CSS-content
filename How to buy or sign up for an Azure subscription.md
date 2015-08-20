@@ -37,8 +37,8 @@ If you do not receive the message, please try the following methods:
  * Use another phone number.
  * Contact [Microsoft Support](http://go.microsoft.com/fwlink/?linkid=544831&clcid=0x409) for help.  
 **Note** The VIOP Internet phone number cannot be used for phone verification.
-5. After the Phone verification is completed, move to the **card
- verification** section.
+5. After the Phone verification is completed, move to the card
+ verification section.
 
  ![cardverify](./Media/VardVerify.png)</br>
 6. After the credit card verification is completed, select the **Agreement** option, and then click **Sign Up**. <center>![Signup](./Media/Signup.png)</center></br>
@@ -49,4 +49,7 @@ If you receive the following error message, try to use another browser to comple
 
 ## Upgrade your Azure Free Trial subscription to a Pay-As-You-Go subscription
 
-1. 
+1. Log on to the [Azure Management portal](https://manage.windowsazure.com/) by using the Microsoft account (formerly Windows Live) that you used to sign up for the free trail.
+2. Move to the upper-right corner of the page, and then click **View my bill**.
+3. Select the subscription, and then click **Upgrade now**.
+4. Select **Yes**, and then click **Upgrade now**.
