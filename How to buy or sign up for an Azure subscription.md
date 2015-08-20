@@ -42,7 +42,7 @@ If you do not receive the message, please try the following methods:
 
  ![cardverify](./Media/VardVerify.png)</br>
 6. After the credit card verification is completed, select the **Agreement** option, and then click **Sign Up**. <center>![Signup](./Media/Signup.png)</center></br>
-If you receive the following error message, try to use another browser to complete the sign-up process.  If the issue still occurs, contact Microsoft Support for help.
+If you receive the following error message, try to use another browser to complete the sign-up process.  If the issue still occurs, contact [Microsoft Support](http://go.microsoft.com/fwlink/?linkid=544831&clcid=0x409) for help.
 ![signuperror1](./Media/signuperror1.png)
 7. When the subscription is ready, click **Start managing my service**.
 <center>![startservice](./Media/startservice.png)</center>
