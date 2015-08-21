@@ -26,6 +26,7 @@ If you cancel this subscription, all of its data will be deleted after the reten
 4. Click Cancel subscription.
 
 **How to check whether your Azure subscription is canceled successfully**
+
 If the azure subscription is canceled successfully, its status will be displayed as "Inactive".</br>
 ![substatus](./Media/substatus.png)
 
