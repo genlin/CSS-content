@@ -25,7 +25,7 @@ This topic helps you with the following tasks:
 * Activate your Azure subscription by using a Online Service Activation Key (a 5x5 key)
 
 ## Sign up for an Azure Free Trial subscription
-To sign up for an Azure Free Trial subscription, you must have a phone number, a credit card, and a Microsoft Account (formerly Windows Live ID).  We use the phone number and credit card for identity verification. We want to make sure that real people are using Azure. We do not bill anything to the credit card.  If you would like to pay by invoice, see [Azure Invoicing](http://azure.microsoft.com/en-us/pricing/invoicing/).
+To sign up for an Azure Free Trial subscription, you must have a phone number, a credit card, and a [Microsoft Account](https://www.microsoft.com/en-us/account/faq.aspx) (formerly Windows Live ID).  We use the phone number and credit card for identity verification. We want to make sure that real people are using Azure. We do not bill anything to the credit card.  If you would like to pay by invoice, see [Azure Invoicing](http://azure.microsoft.com/en-us/pricing/invoicing/).
 
 1. Open the [Azure free trial page](https://azure.microsoft.com/en-us/pricing/free-trial/), and then click **Try it now**.
 2. Sign in to your Microsoft account.
