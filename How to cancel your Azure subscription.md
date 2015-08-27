@@ -18,7 +18,7 @@
 # How to cancel your Azure subscription
 If you cancel this subscription, all of its data will be deleted after the retention period. Make sure you back up the information you want to save before continuing.
 
-1. Log on to the (Azure Account Portal)[https://account.windowsazure.com] by using the Account administrator account.
+1. Log on to the [Azure Account Portal](https://account.windowsazure.com) by using the Account administrator account.
 2. Move to the upper-right corner of the page, and then click **View my bill**.</br>
 ![billing](./Media/billing.png)
 3. Under **Click a subscription to view details and usage**, select the subscription that you want to cancel.</br>
