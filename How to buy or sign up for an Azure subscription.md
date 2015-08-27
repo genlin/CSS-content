@@ -25,10 +25,10 @@ This topic helps you with the following tasks:
 * Activate your Azure subscription by using a Online Service Activation Key (a 5x5 key)
 
 ## Sign up for an Azure Free Trial subscription
-To sign up for an Azure Free Trial subscription, you must have a phone number, a credit card, and a [Microsoft Account](https://www.microsoft.com/en-us/account/faq.aspx) (formerly Windows Live ID).  We use the phone number and credit card for identity verification. We want to make sure that real people are using Azure. We do not bill anything to the credit card.  If you would like to pay by invoice, see [Azure Invoicing](http://azure.microsoft.com/en-us/pricing/invoicing/).
+To sign up for an Azure Free Trial subscription, you must have a phone number, a credit card, and a [Microsoft Account](https://www.microsoft.com/en-us/account/faq.aspx) (formerly Windows Live ID) or a School/Work account (aka Organizations ID).  We use the phone number and credit card for identity verification. We want to make sure that real people are using Azure. We do not bill anything to the credit card.  If you would like to pay by invoice, see [Azure Invoicing](http://azure.microsoft.com/en-us/pricing/invoicing/).
 
 1. Open the [Azure free trial page](https://azure.microsoft.com/en-us/pricing/free-trial/), and then click **Try it now**.
-2. Sign in to your Microsoft account.
+2. Sign in to your Microsoft account or School/Work account.
 3. In the **About you** section, type your personal information. ![The screenshow of personal information](./Media/AboutYou.png)
 4. In the **Verification by phone** section, select the international dialing code for your country, type your phone number (Do not type the internal dialing code) and then click **Send text message**. You'll soon receive a verification code on your phone. Please use the code to verify your Windows Azure account.  
 ![the screenshot about phone verification](./Media/PhoneVerify.png)</br>
@@ -49,7 +49,7 @@ If you receive the "Sorry, we could not complete the operation. Please try again
 
 ## Upgrade your Azure Free Trial subscription to a Pay-As-You-Go subscription
 
-1. Log on to the [Azure Management portal](https://manage.windowsazure.com/) by using the Microsoft account (formerly Windows Live) that you used to sign up for the free trail.
+1. Log on to the [Azure Management portal](https://manage.windowsazure.com/) by using the Microsoft account or your School/Work account that you used to sign up for the free trail.
 2. Select the subscription, and then click **Upgrade**.</br>![billpage](./Media/billpage.png)
 3. Select **Yes**, and then click **Upgrade now**. </br>![upgrade](./Media/Upgrade.png)
 
