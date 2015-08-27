@@ -50,10 +50,8 @@ If you receive the "Sorry, we could not complete the operation. Please try again
 ## Upgrade your Azure Free Trial subscription to a Pay-As-You-Go subscription
 
 1. Log on to the [Azure Management portal](https://manage.windowsazure.com/) by using the Microsoft account (formerly Windows Live) that you used to sign up for the free trail.
-2. Move to the upper-right corner of the page, and then click **View my bill**.</br>
-![bill](./Media/billing.png)
-3. Select the subscription, and then click **Upgrade**.</br>![billpage](./Media/billpage.png)
-4. Select **Yes**, and then click **Upgrade now**. </br>![upgrade](./Media/Upgrade.png)
+2. Select the subscription, and then click **Upgrade**.</br>![billpage](./Media/billpage.png)
+3. Select **Yes**, and then click **Upgrade now**. </br>![upgrade](./Media/Upgrade.png)
 
 ## Activate your Azure subscription by using a Online Service Activation Key (a 5x5 key)
 
