@@ -23,6 +23,3 @@ If you cancel this subscription, all of its data will be deleted after the reten
 ![selectsub](./Media/Selectsub.png)
 3. Click **Cancel subscription**.
 
-If the azure subscription is canceled successfully, its status will be displayed as **Inactive**.</br>
-<center>![substatus](./Media/substatus.png)</center>
-
