@@ -18,4 +18,4 @@ This topic help you with the following task:
 
 ## Add a co-administrator for an subscription
 1. Sign in to the Azure Management Portal. 
-2. In the navigation pane, click Settings, click Administrators, and then click Add. ！(image)[./media/coadmin.png]
+2. In the navigation pane, click Settings, click Administrators, and then click Add. ！(image)[./Media/addcoadmin.png]
