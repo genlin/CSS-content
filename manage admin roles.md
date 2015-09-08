@@ -4,7 +4,7 @@
 This topic help you with the following tasks:
 
 * Understand the different between the three administrator roles
-* Add a Co-Administrator for an subscription
+* Add a Co-Administrator for a subscription
 * Change Service Administrator for a subscription
 * Change Account Administrator (transfer ownership of the Azure account to another account)
 
