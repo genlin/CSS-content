@@ -7,6 +7,7 @@ This topic help you with the following task:
 * Add a co-administrator for an subscription
 * Change Service Administrator for a subscription
 * Change the account administrator (transfer ownership of the Azure account to another account)
+
 ## Azure administrators
 
 There are three kinds of administrator roles in Windows azure:
