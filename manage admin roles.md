@@ -1,4 +1,4 @@
-# How to add or change Azure C-Administrator, Service Administrator and Account Administrator
+# How to add or change Azure Co-Administrator, Service Administrator and Account Administrator
 
 ## Summary
 This topic help you with the following task:
