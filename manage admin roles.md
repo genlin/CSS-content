@@ -39,4 +39,4 @@ To change the service  account for a subscription, you need the Account Administ
 
 ## Change the Account Administrator (transfer ownership of the Azure account to another account)
 
-To transfer ownership of the Azure account to another. Account, see [Transferring an Azure subscription](https://azure.microsoft.com/en-us/documentation/articles/billing-subscription-transfer/)
+To transfer ownership of the Azure account to another. Account, see [Transferring an Azure subscription](https://azure.microsoft.com/en-us/documentation/articles/billing-subscription-transfer/).
