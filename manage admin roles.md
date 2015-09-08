@@ -1,7 +1,7 @@
 # How to add or change Azure Co-Administrator, Service Administrator and Account Administrator
 
-## Summary
-This topic help you with the following task:
+## Contents
+This topic help you with the following tasks:
 
 * Understand the different between the three administrator roles
 * Add a Co-Administrator for an subscription
