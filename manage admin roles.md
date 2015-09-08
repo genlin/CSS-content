@@ -23,9 +23,17 @@ There are three kinds of administrator roles in Windows Azure:
 2. In the navigation pane, click **Settings**, click **Administrators**, and then click **Add**. </br>![addcodmin](./Media/addcoadmin.png)
 3. Type the user’s email address, and then select the check mark for the subscription that you want the user to access.</br> ![addcoadmin2](./Media/addcoadmin2.png)</br>
 
+The following email address can be added as a Co-Administrator:
+
+* **Microsoft Account** (formerly Windows Live ID) </br>
+ You can use a Microsoft Account to sign in to all consumer-oriented Microsoft products and cloud services, such as Outlook (Hotmail), Skype (MSN), OneDrive, Windows Phone, and Xbox LIVE. 
+* **Organizational account**</br>
+ An organizational account is an account that is created under Azure Active Directory. The organizational account address resembles the following:
+	user@<your domain>.onmicrosoft.com
+
 **Note**
- * If you are logged in with a Microsoft Account, you can only add other Microsoft Accounts as Service Administrator or Co-Administrator. This is a security consideration to prevent non-organizational accounts from discovering if certain accounts (e.g. janedoe@contoso.com) are valid accounts.
- * If you are logged in with an organizational account, you can add other organizational accounts in your organization as Service Administrator or Co-Administrator. For example, abby@contoso.com can add bob@contoso.com as Service Administrator or Co-Administrator, but cannot add john@notcontoso.com. Users logged in with organizational accounts can continue to add Microsoft Account users as Service Administrator or Co-Administrator.
+ * If you are logged in with a Microsoft Account, you can only add other Microsoft Accounts as Co-Administrator. This is a security consideration to prevent non-organizational accounts from discovering if certain accounts (e.g. janedoe@contoso.com) are valid accounts.
+ * If you are logged in with an organizational account, you can add other organizational accounts in your organization as Co-Administrator. For example, abby@contoso.com can add bob@contoso.com as Service Administrator or Co-Administrator, but cannot add john@notcontoso.com. Users logged in with organizational accounts can continue to add Microsoft Account users as Service Administrator or Co-Administrator.
 
 ## Change Service Administrator for a subscription
 To change the service  account for a subscription, you need the Account Administrator privilege.
