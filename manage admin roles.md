@@ -1,10 +1,10 @@
-# How to add or change Azure co-Administrator, Service Administrator and Account administrator
+# How to add or change Azure C-Administrator, Service Administrator and Account Administrator
 
 ## Summary
 This topic help you with the following task:
 
 * Understand the different between the three administrator roles
-* Add a co-administrator for an subscription
+* Add a Co-Administrator for an subscription
 * Change Service Administrator for a subscription
 * Change the Account Administrator (transfer ownership of the Azure account to another account)
 
@@ -18,7 +18,7 @@ There are three kinds of administrator roles in Windows azure:
 | Service Administrator | 1 per Azure subscription  |Authorized to access Azure Management Portal for all subscriptions in the account. By default, same as the Account Administrator when a subscription is created|
 |Co-administrator|200 per subscription (in addition to Service Administrator)|Same as Service Administrator, but can’t change the association of subscriptions to Azure directories.|
 
-## Add a co-administrator for a subscription
+## Add a Co-Administrator for a subscription
 1. Sign in to the [Azure Management Portal](https://manage.windowsazure.com/).
 2. In the navigation pane, click **Settings**, click **Administrators**, and then click **Add**. </br>![addcodmin](./Media/addcoadmin.png)
 3. Type the user’s email address, and then select the check mark for the subscription that you want the user to access.</br> ![addcoadmin2](./Media/addcoadmin2.png)</br>
