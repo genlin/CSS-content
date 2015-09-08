@@ -8,7 +8,7 @@ This topic help you with the following tasks:
 * Change Service Administrator for a subscription
 * Change Account Administrator (transfer ownership of the Azure account to another account)
 
-## Administrators roles
+## Administrator roles
 
 There are three kinds of administrator roles in Windows Azure:
 
