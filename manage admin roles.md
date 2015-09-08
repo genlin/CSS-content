@@ -20,8 +20,9 @@ There are three kinds of administrator roles in Windows azure:
 
 ## Add a co-administrator for a subscription
 1. Sign in to the [Azure Management Portal](https://manage.windowsazure.com/).
-2. In the navigation pane, click **Settings**, click **Administrators**, and then click **Add**. ![addcodmin](./Media/addcoadmin.png)
-3. Type the user’s email address, and then select the check mark for the subscription that you want the user to access.![addcoadmin2](./Media/addcoadmin2.png)
+2. In the navigation pane, click **Settings**, click **Administrators**, and then click **Add**. </br>![addcodmin](./Media/addcoadmin.png)
+3. Type the user’s email address, and then select the check mark for the subscription that you want the user to access.</br> ![addcoadmin2](./Media/addcoadmin2.png)</br>
+
 **Note**
  * If you are logged in with a Microsoft Account, you can only add other Microsoft Accounts as Service Administrator or Co-Administrator. This is a security consideration to prevent non-organizational accounts from discovering if certain accounts (e.g. janedoe@contoso.com) are valid accounts.
  * If you are logged in with an organizational account, you can add other organizational accounts in your organization as Service Administrator or Co-Administrator. For example, abby@contoso.com can add bob@contoso.com as Service Administrator or Co-Administrator, but cannot add john@notcontoso.com. Users logged in with organizational accounts can continue to add Microsoft Account users as Service Administrator or Co-Administrator.
