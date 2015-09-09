@@ -14,8 +14,8 @@ There are three kinds of administrator roles in Windows Azure:
 
 | Administrative role   | Limit  | Description
 | ------------- | ------------- |---------------|
-|Account Administrator  | 1 per Azure account  |It is the account you used to sign up or buy Azure subscriptions. It is Authorized to access the Account Center (create subscriptions, cancel subscriptions, change billing for a subscription, change Service Administrator, and more)
-| Service Administrator | 1 per Azure subscription  |Authorized to access Azure Management Portal for all subscriptions in the account. By default, same as the Account Administrator when a subscription is created|
+|Account Administrator  | 1 per Azure account  |It is the account you used to sign up or buy Azure subscriptions. It is Authorized to access the Account Center (create subscriptions, cancel subscriptions, change billing for a subscription, change Service Administrator, and more).
+| Service Administrator | 1 per Azure subscription  |Authorized to access Azure Management Portal for all subscriptions in the account. By default, same as the Account Administrator when a subscription is created.|
 |Co-administrator|200 per subscription (in addition to Service Administrator)|Same as Service Administrator, but can’t change the association of subscriptions to Azure directories.|
 
 ## Add a Co-Administrator for a subscription
