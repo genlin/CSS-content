@@ -21,5 +21,6 @@ If you cancel this subscription, all of its data will be deleted after the reten
 1. Log on to the [Azure Account Portal](https://account.windowsazure.com/subscriptions) by using the Account administrator account.
 2. Under **Click a subscription to view details and usage**, select the subscription that you want to cancel.</br>
 ![selectsub](./Media/Selectsub.png)
-3. Click **Cancel subscription**.
+3. On the right side, click **Cancel subscription**. </br> ![cancalsub](./Media/cancelsub.png)
+4. Click Yes to cancel the subscription. </br> ![cancelbox](./Media/cancalbox.png)
 
