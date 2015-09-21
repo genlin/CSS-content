@@ -1,6 +1,6 @@
 # Why have you received a notification that your Azure subscription has a past due balance?
 ## If you are paying by credit card
-will see an alert on http://accounts.windowsazure.com or http://portal.azure.com. 
+ If you forget to pay your bill, the Account administrator will receive an email notification or you will see an alert on http://accounts.windowsazure.com or http://portal.azure.com. 
 
 ##What will happen if you forget to pay
 The service will be canceled and your resources will no longer be available. Any data will be deleted 90 days after the service is terminated.
