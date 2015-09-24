@@ -12,4 +12,4 @@ Use another credit card or payment method for the subscriptions, or contact your
 To resolve this issue, please contact [Microsoft Support](http://azure.microsoft.com/en-us/support/options/) for help. 
 
 ## If you are on an invoice mode of payment
-You can send payment to the location listed at the bottom of your invoice. For any additional help you can contact  [Microsoft Support](http://azure.microsoft.com/en-us/support/options/) for help. 
+You can send payment to the location listed at the bottom of your invoice. For any additional help you can contact  [Microsoft Support](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade) for help. 
