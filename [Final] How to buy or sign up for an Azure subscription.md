@@ -36,16 +36,16 @@ To sign up for an Azure Free Trial subscription:
 3. In the **About you** section, type your personal information. ![The screenshow of personal information](./Media/AboutYou.png)
 4. In the **Verification by phone** section, select the international dialing code for your country, type your phone number (Do not type the internal dialing code) and then select **Send text message** or **Call me**. After you receive a verification code, enter it in the **Verify code** box, and then select the **Verify code** button to verify your phone number. </br> Note: A VOIP phone number cannot be used for phone verification.
 ![the screenshot about phone verification](./Media/PhoneVerify.png)</br>
-If you do not receive a text message or a call back, try using a different phone number or contact Microsoft Support for help.
+If you do not receive a text message or a call back, try using a different phone number or contact [Microsoft Support](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade) for help.
 5. After the Phone verification is completed, move to the card
  verification section.
 
  ![cardverify](./Media/VardVerify.png)</br>
 6. After the credit card verification is completed, select the **Agreement** option, and then select **Sign Up**. <center>![Signup](./Media/Signup.png)</center></br>
-Note: It can take a few minutes to set up your subscription. If the subscription setup does not complete in 15 minutes call Microsoft Support for assistance. </br>
+Note: It can take a few minutes to set up your subscription. If the subscription setup does not complete in 15 minutes call [Microsoft Support](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade) for assistance. </br>
 If you get any error message, follow the steps in the message to resolve the issue. A typical error message is:
 **Sorry, we could not complete the operation. Please try again later or reload the web page** </br>
-In this case, try using another browser to complete the sign-up process. If the issue still occurs, contact Microsoft Support for help. 
+In this case, try using another browser to complete the sign-up process. If the issue still occurs, contact[Microsoft Support](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade) for help. 
 
 ![signuperror1](./Media/signuperror1.png)</br>
 7. When the subscription is ready, select **Start managing my service**.
