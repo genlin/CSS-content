@@ -18,7 +18,7 @@
 # How to buy or sign up for an Azure subscription
 ## Content:
 
-This topic helps you with the following tasks:
+This topic will help you with the following tasks:
 
 * Sign up for an Azure Free Trial subscription
 * Upgrade your Azure Free Trial subscription to a Pay-As-You-Go subscription
