@@ -41,17 +41,23 @@ If you do not receive a text message or a call back, try using a different phone
  verification section.
 
  ![cardverify](./Media/VardVerify.png)</br>
-6. After the credit card verification is completed, select the **Agreement** option, and then click **Sign Up**. <center>![Signup](./Media/Signup.png)</center></br>
-If you receive the "Sorry, we could not complete the operation. Please try again later or reload the web page" error message, try to use another browser to complete the sign-up process.  If the issue still occurs, contact [Microsoft Support](http://go.microsoft.com/fwlink/?linkid=544831&clcid=0x409) for help. </br>
+6. After the credit card verification is completed, select the **Agreement** option, and then select **Sign Up**. <center>![Signup](./Media/Signup.png)</center></br>
+Note: It can take a few minutes to set up your subscription. If the subscription setup does not complete in 15 minutes call Microsoft Support for assistance.
+If you get any error message, follow the steps in the message to resolve the issue. A typical error message is:
+
+**Sorry, we could not complete the operation. Please try again later or reload the web page**
+
+In this case, try using another browser to complete the sign-up process. If the issue still occurs, contact Microsoft Support for help. 
+
 ![signuperror1](./Media/signuperror1.png)
-7. When the subscription is ready, click **Start managing my service**.
+7. When the subscription is ready, select **Start managing my service**.
 <center>![startservice](./Media/startservice.png)</center>
 
 ## Upgrade your Azure Free Trial subscription to a Pay-As-You-Go subscription
 
 1. Log on to the [Azure Account Portal](https://account.windowsazure.com/subscriptions) by using the Microsoft account or your School/Work account that you used to sign up for the free trail.
-2. Select the subscription, and then click **Upgrade**.</br>![billpage](./Media/billpage.png)
-3. Select **Yes**, and then click **Upgrade now**. </br>![upgrade](./Media/Upgrade.png)
+2. Select the subscription, and then select **Upgrade**.</br>![billpage](./Media/billpage.png)
+3. Select **Yes**, and then select **Upgrade now**. </br>![upgrade](./Media/Upgrade.png)
 
 ## Activate your Azure subscription by using a Online Service Activation Key (a 5x5 key)
 
@@ -59,3 +65,4 @@ If you bought Azure in Open credits from a reseller, please follow these steps t
 
 1. Open the [Azure in Open License key](http://azure.microsoft.com/en-us/offers/ms-azr-0111p/) page, and then select Activate a new subscription or existing subscription.
 2. Type the product key, and then check the first agreement option (and also the second option if you want to receive special offers) to activate the subscription.</br>![OSA KEY](./Media/OSAkey.png)
+3. Select **Activate**.
