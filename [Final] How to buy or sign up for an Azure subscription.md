@@ -15,7 +15,7 @@
 	ms.topic="billing" 
 	ms.date="08/13/2015" 
 	ms.author="genli"/>
-#[Final] How to buy or sign up for an Azure subscription
+#How to buy or sign up for an Azure subscription
 ## Content:
 
 This topic will help you with the following tasks:
