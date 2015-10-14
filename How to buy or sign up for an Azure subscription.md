@@ -49,7 +49,7 @@ If you get any error message, follow the steps in the message to resolve the iss
 
 In this case, try using another browser to complete the sign-up process. If the issue still occurs, contact Microsoft Support for help. 
 
-![signuperror1](./Media/signuperror1.png)
+![signuperror1](./Media/signuperror1.png)</br>
 7. When the subscription is ready, select **Start managing my service**.
 <center>![startservice](./Media/startservice.png)</center>
 
