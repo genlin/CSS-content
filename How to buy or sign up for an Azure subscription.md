@@ -25,18 +25,18 @@ This topic helps you with the following tasks:
 * Activate your Azure subscription by using a Online Service Activation Key (a 5x5 key)
 
 ## Sign up for an Azure Free Trial subscription
-To sign up for an Azure Free Trial subscription, you must have a phone number, a credit card, and a [Microsoft Account](https://www.microsoft.com/en-us/account/faq.aspx) (formerly Windows Live ID) or a School/Work account (aka Organizations ID).  We use the phone number and credit card for identity verification. We want to make sure that real people are using Azure. We do not bill anything to the credit card.  If you would like to pay by invoice, see [Azure Invoicing](http://azure.microsoft.com/en-us/pricing/invoicing/).
+To sign up for an Azure Free Trial subscription, you must provide a phone number, a credit card, and a [Microsoft Account](https://www.microsoft.com/en-us/account/faq.aspx) (formerly Windows Live ID) or a School/Work account (aka Organizations ID). Your phone number and credit card are used only to verify your identity, and your credit card will not be  billed. 
 
-1. Open the [Azure free trial page](https://azure.microsoft.com/en-us/pricing/free-trial/), and then click **Try it now**.
+Note: Your credit card will be charged $1 to make sure it is a valid card, and the charge is reversed after 3-5 business days. 
+
+To sign up for an Azure Free Trial subscription: 
+
+1. Open the [Azure free trial page](https://azure.microsoft.com/en-us/pricing/free-trial/), and then select **Try it now**.
 2. Sign in to your Microsoft account or School/Work account.
 3. In the **About you** section, type your personal information. ![The screenshow of personal information](./Media/AboutYou.png)
-4. In the **Verification by phone** section, select the international dialing code for your country, type your phone number (Do not type the internal dialing code) and then click **Send text message**. You'll soon receive a verification code on your phone. Please use the code to verify your Windows Azure account.  
+4. In the **Verification by phone** section, select the international dialing code for your country, type your phone number (Do not type the internal dialing code) and then select **Send text message** or **Call me**. After you receive a verification code, enter it in the **Verify code** box, and then select the **Verify code** button to verify your phone number. </br> Note: A VOIP phone number cannot be used for phone verification.
 ![the screenshot about phone verification](./Media/PhoneVerify.png)</br>
-If you do not receive the message, please try the following methods:
- * Use **Call me** option.
- * Use another phone number.
- * Contact [Microsoft Support](http://go.microsoft.com/fwlink/?linkid=544831&clcid=0x409) for help.  
-**Note** The VIOP Internet phone number cannot be used for phone verification.
+If you do not receive a text message or a call back, try using a different phone number or contact Microsoft Support for help.
 5. After the Phone verification is completed, move to the card
  verification section.
 
