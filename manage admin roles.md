@@ -26,9 +26,7 @@ The following email address can be added as a Co-Administrator:
  * If you are logged in with a Microsoft Account, you can only add other Microsoft Accounts as Co-Administrator. This is a security consideration to prevent non-organizational accounts from discovering if certain accounts (e.g. janedoe@contoso.com) are valid accounts.
  * If you are logged in with an organizational account, you can add other organizational accounts in your organization as Co-Administrator. For example, abby@contoso.com can add bob@contoso.com as Service Administrator or Co-Administrator, but cannot add john@notcontoso.com. Users logged in with organizational accounts can continue to add Microsoft Account users as Service Administrator or Co-Administrator.
  * Now that it is possible to log into Azure with an organizational account, here are the changes to Service Administrator and Co-administrator account requirements: 
-| Administrative role   | Limit  | Description|Add organizational account in different organization as Co-Administrator or Service Administrator? |
-
-| ------------- | ------------- |---------------|---------------|
+| Administrative role   | Limit  | Description|Add organizational account in different organization as Co-Administrator or Service Administrator? | ------------- | ------------- |---------------|---------------|
 |Microsoft Account |Yes|No|No|
 |Organizational Account|Yes|Yes|No|
 
