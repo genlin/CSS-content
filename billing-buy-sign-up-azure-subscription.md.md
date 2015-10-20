@@ -42,7 +42,7 @@ If you do not receive a text message or a call back, try using a different phone
 
  ![cardverify](./Media/VardVerify.png)</br>
 6. After the credit card verification is completed, select the **Agreement** option, and then select **Sign Up**. <center>![Signup](./Media/Signup.png)</center></br>
-Note: It can take a few minutes to set up your subscription. If the subscription setup does not complete in 15 minutes call [Microsoft Support](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade) for assistance. </br>
+Note: It can take a few minutes to set up your subscription. If the subscription setup does not complete in 15 minutes contact [Microsoft Support](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade) for assistance. </br>
 If you get any error message, follow the steps in the message to resolve the issue. A typical error message is:
 **Sorry, we could not complete the operation. Please try again later or reload the web page** </br>
 In this case, try using another browser to complete the sign-up process. If the issue still occurs, contact [Microsoft Support](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade) for help. 
