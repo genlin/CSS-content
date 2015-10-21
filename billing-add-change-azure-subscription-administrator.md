@@ -10,7 +10,7 @@ There are three kinds of administrator roles in Windows Azure:
 |Co-administrator|200 per subscription (in addition to Service Administrator)|This person has the same access privileges as the Service Administrator, but can’t change the association of subscriptions to Azure directories.|
 
 ## Add a Co-Administrator for a subscription
-1. Sign in to the [Azure Management Portal](https://manage.windowsazure.com/).
+1. Sign in to the [Azure Management Portal](https://manage.windowsazure.com/)){:target="_blank"} .
 2. In the navigation pane, select **Settings**> **Administrators**> **Add**. </br>![addcodmin](./Media/addcoadmin.png)
 3. Type the email address of the person you want to add as Co-administrator and then select the subscription that you want the Co-administrator to access.</br> ![addcoadmin2](./Media/addcoadmin2.png)</br>
 
