@@ -23,7 +23,7 @@ This article answers some of the most common questions about Azure Billing and S
 
 **Billing**
 
-- [What payment options do I have in purchasing Azure?](#Billing)
+- [What payment options do I have in purchasing Azure?](#test)
 
 - How can I request the invoice method of payment?
 
@@ -44,6 +44,8 @@ This article answers some of the most common questions about Azure Billing and S
 - How will Azure Service Level Agreements work with current on-premises Microsoft licensing agreements?
 
 **Subscriptions**
+
+## test
 
 - How do I migrate data and services for my Azure subscription to a new subscription?
 
