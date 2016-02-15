@@ -1,7 +1,7 @@
 # CSS-content
 
 ## this is a readme doc in CSS content
-contetn from [CSS](#test)
+contetn from [CSS](#test-123)
 
 - How do I check the status of a payment made by credit card?
 
@@ -201,4 +201,4 @@ Yes.
 There are currently no plans to offer Azure or SQL Database through SPLA.
 
    
-[test]
+### Test 123
