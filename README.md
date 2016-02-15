@@ -23,7 +23,7 @@ This article answers some of the most common questions about Azure Billing and S
 
 **Billing**
 
-- [What payment options do I have in purchasing Azure?](##Billing)
+- [What payment options do I have in purchasing Azure?](#Billing)
 
 - How can I request the invoice method of payment?
 
@@ -77,7 +77,7 @@ This article answers some of the most common questions about Azure Billing and S
 
 - Are Azure and SQL Database available through Microsoft Services Provider License Agreement (SPLA)?
 
-## Billing
+##Billing
 
 ### What payment options do I have in purchasing Azure?
 
