@@ -37,7 +37,7 @@ The email address in your profile is used by Microsoft to communicate with you. 
 
 2.	Select the **Edit details** button, and then update the **Profile** information.
 
-	![updateprofile](border-profile1.png)
+	![updateprofile](border-profile2.png)
 
 ## Frequently asked questions
 
