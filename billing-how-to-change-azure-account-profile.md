@@ -29,7 +29,7 @@ Missed an important email from Azure? Want to update other contact information i
 
 Important information about changing your profile email address:
 
-The email address in your profile is used by Microsoft to communicate with you. If you change the Account Administrator’s email address, you might miss some email because you may not receive all email notifications in the same place. Therefore, to make sure that you receive all communications associated with the subscription, we recommend that the email address in the user profile be the same as the email address for the Account Administrator.
+The email address in your profile is used by Microsoft to communicate with you. If you change the Account Administrator’s email profile address, you might miss some email because you may not receive all email notifications in the same place. Therefore, to make sure that you receive all communications associated with the subscription, we recommend that the email address in the user profile be the same as the email address for the Account Administrator.
 
 ## How to change your profile information
 
