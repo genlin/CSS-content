@@ -47,7 +47,7 @@ Yes. The Account Administrator is the person who set up the Azure account and wh
 
 ### Does updating my profile email also update my login email address?
 
-No. Updating the profile email address does not update your login email address. You must still log in with this address. To change your login email address, you have to transfer ownership of the account.
+No. Updating the profile email address does not update your login email address. To change your login email address, you have to transfer ownership of the account.
 
 ### Does updating my profile address also update my credit card billing address?
 
