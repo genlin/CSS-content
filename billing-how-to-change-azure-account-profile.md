@@ -27,9 +27,9 @@ Missed an important email from Azure? Want to update other contact information i
 -	[How to change your profile information](#how-to-change-your-profile-information)
 -	[Answers to common issues and questions](#frequently-asked-questions)
 
-## Important information about changing your profile email address
+## Important information about your profile email address
 
-The email address in the Account Administrator’s profile is used by Microsoft to notify you about important billing-related updates about the subscription. We recommend specifying a contact email address that you check regularly.
+The email address in the Account Administrator’s profile is used by Microsoft to notify you about important billing-related updates about the subscription. We recommend specifying a contact email address that you check regularly. 
 
 ## How to change your profile information
 
