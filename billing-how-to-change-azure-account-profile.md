@@ -22,14 +22,14 @@
 
 ## Summary
 
-Missed an important email from Azure? Want to update other contact information in your profile? In this article you will find:
+Missed an important email from Azure? Want to update other contact information in your profile? In this article you will learn:
 
 -	[How to change your profile information](#how-to-change-your-profile-information)
 -	[Answers to common issues and questions](#frequently-asked-questions)
 
-Important information about changing your profile email address:
+## Important information about changing your profile email address
 
-The email address in your profile is used by Microsoft to communicate with you. If you change the Account Administrator’s email profile address, you might miss some email because you may not receive all email notifications in the same place. Therefore, to make sure that you receive all communications associated with the subscription, we recommend that the email address in the user profile be the same as the email address for the Account Administrator.
+The email address in the Account Administrator’s profile is used by Microsoft to notify you about important billing-related updates about the subscription. We recommend specifying a contact email address that you check regularly.
 
 ## How to change your profile information
 
@@ -43,7 +43,7 @@ The email address in your profile is used by Microsoft to communicate with you. 
 
 ### Can I change the Account Administrator email address in my profile?
 
-Yes. The Account Administrator is the person who set up the Azure account and who receives e-mail notifications for the account. Using a different email account in your profile might cause you to miss some email. See Important information about changing your profile email address earlier in this article.
+Yes. The Account Administrator is the person who set up the Azure account and who receives important e-mail notifications regarding all the subscriptions under the account. We recommend specifying a contact email address that the Account Administrator checks regularly.
 
 ### Does updating my profile email also update my login email address?
 
@@ -51,11 +51,11 @@ No. Updating the profile email address does not update your login email address.
 
 ### Does updating my profile address also update my credit card billing address?
 
-No. You can update the billing address associated with your credit card by going to the subscription page in the Azure Account Center. To change the billing address, select the subscription and then click **Change subscription address** on the right side of the page.
+No. You can update the billing address associated with your credit card by going to the [subscription page](https://account.windowsazure.com/subscriptions) in the Azure Account Center. 
 
 ### Why can’t I update the country?
 
-Because of technical constraints, we cannot to change the country on an existing account. However, you can create a new account in the desired country and then contact Azure support to migrate your services to that account.
+Because of technical constraints, we cannot change the country on an existing account. However, you can create a new account in the desired country and then contact Azure support to migrate your services to that account.
 
 ### What email address does the Azure Billing Alerts preview feature use?
 
