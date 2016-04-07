@@ -86,7 +86,7 @@ Then, add the following lines to the /etc/waagent.conf file:
 	![firewall](./Media/firewall.png)
 
 2.	In the Windows Firewall dialog box, right-click Inbound Rules, and then click New Rule.
-3.	
+
 	![rule](./Media/rules.png)
 
 3.	In the New Inbound Rule Wizard, select the Custom option for the Rule Type, and then click Next.
