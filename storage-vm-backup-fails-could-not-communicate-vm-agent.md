@@ -141,13 +141,14 @@ We require the following logs from the customer’s VM:
 /var/log/azure/*
 
 If we require verbose logging for waagent, follow these steps to enable this:
-1.	In the /etc/waagent.conf file, locate the following line:
 
-   Enable verbose logging (y|n)
+1. In the /etc/waagent.conf file, locate the following line:
 
-2.	Change the Logs.Verbose value from n to  y.
+	Enable verbose logging (y|n)
 
-3.	Save the change, and then restart waagent by following the previous steps in this section.
+2. Change the Logs.Verbose value from n to  y.
+
+3. Save the change, and then restart waagent by following the previous steps in this section.
 
 ### Issue 3 The backup extension cannot be loaded
 
