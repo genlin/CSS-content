@@ -39,7 +39,7 @@ The issue can be caused by the following circumstances:
 
 ### Issue 1: The VM has no Internet access
 
-If the VM has no Internet access, or has restrictions in place that prevent access to the Azure infrastructure. In this scenario, use one of the following methods to resolve the issue:
+Per the deployment requirement, the VM might has no Internet access, or has restrictions in place that prevent access to the Azure infrastructure. In this scenario, use one of the following methods to resolve the issue:
 
 **Method A：Whitelist the Azure datacenter IP ranges**
 
