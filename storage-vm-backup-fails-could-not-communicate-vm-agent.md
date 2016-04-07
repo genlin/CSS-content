@@ -60,7 +60,7 @@ There is no recommendation for the proxy software that you should use. Make sure
 
 In the following example, the App VM is configured to use the Proxy VM for all HTTP traffic bound for the public Internet. The Proxy VM is configured to allow incoming traffic from VMs in the virtual network. And finally, the NSG (named NSG-lockdown) requires a new security rule that allows outbound Internet traffic from the Proxy VM.
 
-![topology](topology.png)
+![topology](./Media/topology.png)
 
 **Step 1: Allow outgoing network connections**
 
@@ -82,13 +82,18 @@ Then, add the following lines to the /etc/waagent.conf file:
 **Step 2: Allow incoming connections on the proxy server**
 
 1.	On the proxy server, open Windows Firewall. The easiest way to access the firewall is to search on Windows Firewall with Advanced Security.
+	
+	![firewall](./Media/firewall.png)
 
 2.	In the Windows Firewall dialog box, right-click Inbound Rules, and then click New Rule.
+3.	
+	![rule](./Media/rules.png)
 
 3.	In the New Inbound Rule Wizard, select the Custom option for the Rule Type, and then click Next.
 4.	On the page to select the Program, select All Programs, and then click Next.
 5.	On the Protocol and Ports page, specify the following information, and then click Next.
 
+	![rulewizard](./Media/rulewizard.png)
 	- For Protocol type, select TCP.
 	- For Local port, select Specific Ports.
 	- In the second Local port field,  specify the <Proxy Port> that has been configured.
