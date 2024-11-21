@@ -1,3 +1,5 @@
+author:genlin
+
 # How to add or change Azure Co-Administrator, Service Administrator and Account Administrator
 ## Administrator roles
 
