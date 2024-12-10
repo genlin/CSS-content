@@ -22,6 +22,10 @@ If you cancel this subscription, all of its data will be deleted after the reten
 2. Under **Click a subscription to view details and usage**, select the subscription that you want to cancel.</br>
 
 <img src="./Media/Selectsub.png" alt="Girl in a jacket">
-4. On the right side, click **Cancel subscription**. </br> ![cancalsub](./Media/cancelsub.png)
-5. Click Yes to cancel the subscription. </br> ![cancelbox](./Media/cancelbox.png)
+4. On the right side, click **Cancel subscription**. </br> 
+
+![cancalsub](./Media/cancelsub.png)
+5. Click Yes to cancel the subscription. </br> 
+
+![cancelbox](./Media/cancelbox.png)
 
